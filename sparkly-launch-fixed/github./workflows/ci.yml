@@ -1,0 +1,10 @@
+sparkly-launch-fixed/
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml   <-- ضع فيه محتوى GitHub Actions
+│
+├── package.json     <-- ضع فيه المحتوى المعدل
+├── vite.config.ts
+└── src/
+    └── ...          <-- باقي ملفات المشروع
